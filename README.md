@@ -2,9 +2,11 @@
 
 ## 💭 Sobre nós 
 Somos a Empresa Júnior do curso de Sistemas de Informação. Uma Empresa Júnior é uma associação civil sem fins lucrativos, formada e gerida por alunos de um curso superior afim de elaborar projetos na área de formação dos alunos.
+
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/nextstepsi/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nextstep.ej/)
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nextstep.ej/)
+[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](contatonextstep.si@gmail.com)
 
 ## 💻 Soluções
 - Desenvolvimento web
